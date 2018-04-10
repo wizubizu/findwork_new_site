@@ -107,4 +107,6 @@ $('.carousel .item').each(function(){
 });
 
 // end
- 
+
+
+
